@@ -5,3 +5,4 @@
   - Authored pattern schema plus starter layouts/compositions/interaction patterns with validation script, ESLint, tests, and CI workflow.
   - Published registry docs (purpose, pattern definition, usage model, versioning) and aligned navigation/human entry files.
 - [x] 2025-12-26 — Created GitHub repo holaymolay/ui-pattern-registry, pushed initial commit and tag v0.1.0.
+- [x] 2025-12-26 — Switched holaymolay/ui-pattern-registry visibility to public (Spec 999bd713-5142-49b2-92d9-f22b1ceea0f4).

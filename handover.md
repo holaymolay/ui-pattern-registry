@@ -9,7 +9,7 @@
 - Tooling: npm (package.json v0.1.0), validation script scripts/validate-patterns.js, tests/pattern-validation.test.js, CI at .github/workflows/ci.yml, ESLint via eslint.config.js.
 - Docs: docs/purpose.md, docs/what-is-a-pattern.md, docs/usage-model.md, docs/versioning.md, README_SPEC.yaml → README.md; navigation refreshed (HUMAN_START_HERE.md, docs/humans/concepts-map.md, docs/wiki/index.md).
 - Workflow snapshot created: ai_workflow_revisions/rev_001_current.
-- Remote: https://github.com/holaymolay/ui-pattern-registry (main) with tag v0.1.0 pushed.
+- Remote: https://github.com/holaymolay/ui-pattern-registry (public, main) with tag v0.1.0 pushed.
 
 ## Recent Progress
 - Applied governance scaffold (bootstrap script, README governance artifacts, concept manifest) and aligned stack profile for registry tooling.
