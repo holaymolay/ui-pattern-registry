@@ -1,7 +1,7 @@
 # Handover
 
 ## Current Focus
-- UI Pattern Registry v0.1.0 setup complete (Spec 999bd713-5142-49b2-92d9-f22b1ceea0f4); awaiting GitHub repo creation/push for the initial commit/tag (see todo.md).
+- UI Pattern Registry v0.1.0 setup complete (Spec 999bd713-5142-49b2-92d9-f22b1ceea0f4); no open tasks beyond future feature work.
 
 ## State Snapshot
 - Concept: `ui-pattern-registry` (manifest at concepts/ui-pattern-registry/manifest.yaml); Stack: docs/stacks/ui-pattern-registry.md.
@@ -9,6 +9,7 @@
 - Tooling: npm (package.json v0.1.0), validation script scripts/validate-patterns.js, tests/pattern-validation.test.js, CI at .github/workflows/ci.yml, ESLint via eslint.config.js.
 - Docs: docs/purpose.md, docs/what-is-a-pattern.md, docs/usage-model.md, docs/versioning.md, README_SPEC.yaml → README.md; navigation refreshed (HUMAN_START_HERE.md, docs/humans/concepts-map.md, docs/wiki/index.md).
 - Workflow snapshot created: ai_workflow_revisions/rev_001_current.
+- Remote: https://github.com/holaymolay/ui-pattern-registry (main) with tag v0.1.0 pushed.
 
 ## Recent Progress
 - Applied governance scaffold (bootstrap script, README governance artifacts, concept manifest) and aligned stack profile for registry tooling.

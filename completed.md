@@ -4,3 +4,4 @@
   - Applied Context-Engineering governance with stack profile, concept manifest, README_SPEC/README, and workflow snapshot `rev_001_current`.
   - Authored pattern schema plus starter layouts/compositions/interaction patterns with validation script, ESLint, tests, and CI workflow.
   - Published registry docs (purpose, pattern definition, usage model, versioning) and aligned navigation/human entry files.
+- [x] 2025-12-26 — Created GitHub repo holaymolay/ui-pattern-registry, pushed initial commit and tag v0.1.0.
