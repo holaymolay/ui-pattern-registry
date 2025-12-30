@@ -1,10 +1,10 @@
-title: UI Pattern Registry
+title: CEF UI Pattern Registry
 audience:
   - LLM and agent developers
   - Design system and renderer maintainers
 version: v0.1.0
 spec_id: 999bd713-5142-49b2-92d9-f22b1ceea0f4
-summary: Machine-readable registry of allowable UI patterns for LLM-driven front-end systems, governed by the Context-Engineering Framework.
+summary: Machine-readable registry of allowable UI patterns for LLM-driven front-end systems, governed by the Context Engineering Framework.
 sections:
   - heading: Purpose
     bullets:
@@ -30,7 +30,7 @@ sections:
       - CI runs lint, validation, and tests on push/PR (`.github/workflows/ci.yml`).
   - heading: Governance
     bullets:
-      - Governed by the Context-Engineering Framework (`AGENTS.md`) with Concept `ui-pattern-registry` and Spec `999bd713-5142-49b2-92d9-f22b1ceea0f4`.
+      - Governed by the Context Engineering Framework (`AGENTS.md`) with Concept `ui-pattern-registry` and Spec `999bd713-5142-49b2-92d9-f22b1ceea0f4`.
       - Stack profile: `docs/stacks/ui-pattern-registry.md`.
       - README generated from this spec; do not edit `README.md` directly.
   - heading: Versioning
