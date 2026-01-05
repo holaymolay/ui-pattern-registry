@@ -1,8 +1,8 @@
-# CEF UI Pattern Registry
-Part of the Context Engineering Framework (CEF). Umbrella repo: [context-engineering-framework](https://github.com/holaymolay/cef-governance-orchestrator).
+# CERES UI Pattern Registry
+Part of the CERES (Coordinated Emergent Reasoning System). Umbrella repo: [CERES](https://github.com/holaymolay/ceres-coordinated-emergent-reasoning-system).
 
 
-Machine-readable registry of allowable UI patterns for LLM-driven front-end systems, governed by the Context Engineering Framework.
+Machine-readable registry of allowable UI patterns for LLM-driven front-end systems, governed by the CERES.
 
 ## Purpose
 - Finite vocabulary of structural UI patterns so agents select allowed layouts instead of inventing them.
@@ -27,7 +27,7 @@ Machine-readable registry of allowable UI patterns for LLM-driven front-end syst
 - CI runs lint, validation, and tests on push/PR (`.github/workflows/ci.yml`).
 
 ## Governance
-- Governed by the Context Engineering Framework (`AGENTS.md`) with Concept `ui-pattern-registry` and Spec `999bd713-5142-49b2-92d9-f22b1ceea0f4`.
+- Governed by the CERES (`AGENTS.md`) with Concept `ui-pattern-registry` and Spec `999bd713-5142-49b2-92d9-f22b1ceea0f4`.
 - Stack profile: `docs/stacks/ui-pattern-registry.md`.
 - README is generated from `README_SPEC.yaml`; edit the spec and regenerate rather than editing this file directly.
 
