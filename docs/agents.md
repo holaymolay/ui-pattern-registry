@@ -176,3 +176,5 @@ Next Action: <who, when>
 - Log API and file-system access made by agents; retain logs per the retention policy in `docs/security.md`.
 - Perform permission checks before executing privileged operations; abort when authorization is unclear.
 - Align with the security playbook for dependency hygiene, incident response, and monitoring of automated changes.
+
+- Use CERES todo template: initialize via umbrella `scripts/init-todo-files.sh` (todo-inbox.md, todo.md, completed.md, handover.md); governance gate may enforce `--require-ceres-todo`.
