@@ -37,3 +37,5 @@ Machine-readable registry of allowable UI patterns for LLM-driven front-end syst
 ## Versioning
 - Repository and package version `0.1.0`; tag releases as `v0.1.0`, `v0.1.1`, etc.
 - Patterns carry their own `version` and `status`; schema version recorded as `schema_version` in each file.
+## Observability (local)
+- Use  to emit stage events via hub .
